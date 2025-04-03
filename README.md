@@ -17,8 +17,8 @@ The study investigates why **Stratospheric Sudden Warmings (SSWs)** occur almost
 
 ### 📄 Paper
 
-- **Main Manuscript**: [`/result/manuscript.pdf`](./manuscript.pdf)  
-- **Supporting Information**: [`/result/supplementary.pdf`](./supplementary.pdf)
+- **Main Manuscript**: [`manuscript.pdf`](./result/manuscript.pdf)  
+- **Supporting Information**: [`/result/supplementary.pdf`](./result/supplementary.pdf)
 
 ---
 
