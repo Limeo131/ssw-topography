@@ -47,6 +47,24 @@ The analysis is broken into several Jupyter notebooks:
 
 ---
 
+### 🗂️ Data
+
+The analysis uses the following datasets:
+
+- **ECHAM6 Climate Model Simulations**  
+  - ALL: Realistic topography and surface energy fluxes  
+  - FLAT: Flattened topography  
+  - SYMS: Symmetrized surface energy fluxes  
+  - F+S: Flattened topography + symmetrized fluxes  
+  - 60-year integrations with monthly and daily outputs  
+  - Developed in Shaw et al. (2022)
+
+- **ERA5 Reanalysis** (1958–2022)  
+  - Zonal and meridional wind, temperature  
+  - Used to evaluate model performance and calculate SSW frequency
+
+---
+
 ### 🛠️ Environment & Dependencies
 
 This project was developed using:
