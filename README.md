@@ -55,11 +55,6 @@ This project was developed using:
 - Jupyter Notebook
 - Common scientific libraries: `numpy`, `matplotlib`, `scipy`, `xarray`, `cartopy`, `netCDF4`
 
-To install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 *Note: You may need to configure access to climate model output or reanalysis datasets used in the analysis.*
 
 ---
